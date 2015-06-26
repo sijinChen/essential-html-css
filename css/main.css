@@ -1,6 +1,6 @@
 
-@import url(http://fonts.googleapis.com/css?family=Raleway:300);
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400);
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400);
 body{
 	font-family: "Lato", 18 pix, 300 weight;
     background-image: url('../img/background.jpg');
@@ -82,7 +82,7 @@ header{
 	padding-top: 1em;
 	padding-bottom: 1em;
 	color:(207,205,140);
-	opacity:0.5;	
+	color-opacity:0.5;	
 }
 dt{
 	font-weight: 400;
